@@ -1,5 +1,5 @@
 # K-means-clustering-to-compress-image
-Implemented the K-means clustering algorithm and apply it to compress an image.
+Implemented the K-means clustering algorithm in Matlab and applied it to compress an image.
 
 - UNZIP THE ZIP FILE ATTACHED IN REPOSITORY
 - OPEN EX7
